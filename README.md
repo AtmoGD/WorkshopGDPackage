@@ -18,7 +18,7 @@ Sobald das Projekt fertig erstellt wurde findet man unter dem Reiter **Window** 
 
 ![03](./Documentation/Instruction_03.png)
 
-Im Package Manager oben links auf das **plus** Symbol klicken.
+Im Package Manager oben links auf das **plus** Symbol klicken und dann auf **Add package from git URL**.
 
 ![04](./Documentation/Instruction_04.png)
 

@@ -10,7 +10,7 @@ Zusätzliche packages werden **keine** gebraucht.
 
 ![01](./Documentation/Instruction_01.png)
 
-Nach dem das neue Fenster erschienen ist kontrollieren ob die **Version** richtig ist, das **Template** auf **2D Core** gestellt ist und der **Project name** eingegeben wurde.
+Nach dem das neue Fenster erschienen ist kontrollieren ob die **Version** richtig ist, dass **Template** auf **2D Core** gestellt ist und der **Project name** eingegeben wurde.
 
 ![02](./Documentation/Instruction_02.png)
 
@@ -26,7 +26,7 @@ Es erscheint ein Eingabefeld. Dort folgendes eintippen: **https://github.com/Atm
 
 ![05](./Documentation/Instruction_05.png)
 
-Sobald das Package fertig ist ist dort ein Reiter mit **Samples**. Dieses aufklappen und auf **Import** klicken
+Sobald das Package fertig ist, ist dort ein Reiter mit **Samples** zu sehen. Diesen aufklappen und auf **Import** klicken
 
 ![06](./Documentation/Instruction_06.png)
 
@@ -34,6 +34,6 @@ Sobald das Package fertig ist ist dort ein Reiter mit **Samples**. Dieses aufkla
 
 Wenn alles funktioniert hat sollte in der **Hierarchie** folgende Ordnerstruktur zu sehen sein. Unter **Scenes** können die 3 level jetzt auch gespielt werden.
 
-**Achtung:** Wenn das Spiel gespielt wird ist es noch nciht möglich den Button **Nächstes Level** zu benutzten. Klickt man darauf hängt sich das Spiel auf. Das mache ich dann fertig wenn ich da bin.
+**Achtung:** Wenn das Spiel gespielt wird ist es noch nicht möglich den Button **Nächstes Level** zu benutzten. Klickt man darauf hängt sich das Spiel auf. Das mache ich dann fertig wenn ich da bin.
 
 ![08](./Documentation/Instruction_08.png)

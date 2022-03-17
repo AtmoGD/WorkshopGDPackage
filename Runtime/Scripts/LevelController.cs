@@ -15,6 +15,11 @@ public class LevelController : MonoBehaviour
     
     void Update()
     {
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
+        
         if(!IsActive) return;
 
         Move();
